@@ -1,0 +1,10 @@
+.portrait {
+    max-height: 400px;
+}
+img {
+    border:1px solid #d8d8d8;
+}
+.photoCaption {
+    font-size: 1.1rem;
+    text-align: center;
+}

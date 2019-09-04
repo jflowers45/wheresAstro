@@ -1,0 +1,13 @@
+<template>
+
+    <lightning-card style='min:height:350px;' if:true={id}>
+        <div class="slds-p-horizontal_medium slds-align_absolute-center">
+            <a target="_blank" href={imageUrl}><img src={imageUrl} class={imageClass}></img></a>
+        </div>
+        <BR />
+        <div class="slds-p-horizontal_medium slds-align_absolute-center photoCaption">
+            <lightning-formatted-rich-text value={description}></lightning-formatted-rich-text> 
+        </div>
+    </lightning-card>
+
+</template> 
