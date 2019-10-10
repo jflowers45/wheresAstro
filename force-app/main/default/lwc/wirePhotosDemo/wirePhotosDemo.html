@@ -1,0 +1,9 @@
+<template>
+    <lightning-card title="Photo Locations">
+    <ol class="slds-p-left_medium">
+    <template for:each={photos.data} for:item="photo">
+        <li key={photo.Id}>{photo.Name}</li>
+    </template>
+    </ol>
+    </lightning-card>
+</template>
