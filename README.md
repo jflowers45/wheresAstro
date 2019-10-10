@@ -7,3 +7,5 @@ Where's Astro is a bite-sized LWC application that covers properties, decorators
 
 # Getting Started
 Run ./scripts/createOrg.sh (if on a Mac) or cut and paste its commands and run them individually (on Windows) to create a scratch org. It assumes you have already set a default dev hub.
+
+Once you're in the scratch org, open the "Where's Astro" flexipage in the Sales app.
