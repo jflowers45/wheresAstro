@@ -1,4 +1,4 @@
-![Astro in Niagara Falls](https://raw.githubusercontent.com/jflowers45/wheresAstro/master/appScreenshot.png "Astro in Niagara Falls")
+![Screenshot of Where's Astro](https://raw.githubusercontent.com/jflowers45/wheresAstro/master/appScreenshot.png "Screenshot of Where's Astro")
 
 
 # Where's Astro?
